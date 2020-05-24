@@ -1,0 +1,8 @@
+## FOLDERS
+/.sass-cache
+/node_modules
+/js
+/css
+
+## FILES
+.DS_Store

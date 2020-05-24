@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "esnext",
+        "target": "es6",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "paths": {
+            "components/*": [ "./app/components/*" ]
+        }
+    },
+    "include": [
+        "app/**/*",
+    ],
+    "exclude": ["node_modules"]
+} 
