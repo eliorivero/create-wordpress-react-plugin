@@ -19,6 +19,8 @@ This is a boilerplate to speed up the development of a WordPress plugin with a R
 
 Clone this repo to your `wp-content/plugins/` directory.
 
+Run `npm install` to install all packages needed.
+
 Go to `WP Admin > Plugins` and activate it. This will add a new settings page "Create WP React Plugin" to the WP Admin menu.
 
 Edit `create-wordpress-react-plugin/create-wordpress-react-plugin.php` and set the `CWPRP_DEVELOPMENT_MODE` to `true`.
